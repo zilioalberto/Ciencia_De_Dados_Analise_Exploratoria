@@ -2,7 +2,9 @@
 ## Análise Exploratória para Modelagem – Projeto de Classificação (Churn)
 
 #Alunos: 
+
 #Alberto Zilio
+
 #Roni Pereira
 
 # Aula 07 – Parte 1  
